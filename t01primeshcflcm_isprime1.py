@@ -1,5 +1,5 @@
 # Is num a prime number? 
-# A prime number is an integer with exactly 2 different factors, 1 and itself.
+# A prime number is an integer with exactly 2 different factors, 1 and itself..
 
 num = 61
 num_factors = 0
